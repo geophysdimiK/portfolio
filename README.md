@@ -7,5 +7,7 @@ Geophysics, PhD
 Teacher of Physics and Math @ ExamPrep GmbH
 
 ### Projects
-ElectriStay
-GraduaLaunch
+
+## Project 1
+- Using Brownian Motion for simulating a financial price asset evolution
+- [Github Repository] (https://github.com/geophysdimiK/stock-price-simulation)
