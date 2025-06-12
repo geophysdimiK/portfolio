@@ -14,4 +14,4 @@ Teacher of Physics and Math @ ExamPrep GmbH
 
 ## Project 2
 - Monitoring of the water levels of Lake Zurich; Periodic API call
-- [Github Repository] {https://github.com/geophysdimiK/lake_zurich_water_level_monitoring}
+- [Github Repository] (https://github.com/geophysdimiK/lake_zurich_water_level_monitoring)
